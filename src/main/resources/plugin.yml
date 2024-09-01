@@ -1,0 +1,7 @@
+name: FunTestPlugin
+version: '${project.version}'
+main: org.shakespeare.funtestplugin.FunTestPlugin
+api-version: '1.21'
+authors: [Shakespeare]
+commands:
+  thor:
