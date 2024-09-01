@@ -1,27 +1,3 @@
-# IntelliJ IDEA
+# Ignore IntelliJ IDEA project files
 .idea/
-*.iws
 *.iml
-*.ipr
-out/
-
-# User-specific files
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/dictionaries
-.idea/**/shelf
-.idea/**/aws.xml
-.idea/**/contentModel.xml
-.idea/**/dataSources/
-.idea/**/dataSources.ids
-.idea/**/dataSources.local.xml
-.idea/**/sqlDataSources.xml
-.idea/**/dynamic.xml
-.idea/**/uiDesigner.xml
-.idea/**/dbnavigator.xml
-.idea/**/mongoSettings.xml
-.idea/httpRequests
-.idea/caches/build_file_checksums.ser
-.idea/codestream.xml
-.idea/azureSettings.xml
