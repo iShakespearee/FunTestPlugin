@@ -8,7 +8,7 @@ public final class FunTestPlugin extends JavaPlugin {
     @Override
     public void onEnable() {
 
-        getServer().getPluginManager().registerEvents(new ThorCommand(), thi);
+        getServer().getPluginManager().registerEvents(new ThorCommand(), th);
 
         getCommand("thor").setExecutor(new ThorCommand());
 
