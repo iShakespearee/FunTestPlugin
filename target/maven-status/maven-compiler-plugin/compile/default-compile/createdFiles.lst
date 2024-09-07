@@ -1,3 +1,6 @@
-org/shakespeare/funtestplugin/FunTestPlugin.class
 org/shakespeare/funtestplugin/commands/ThorCommand.class
+org/shakespeare/funtestplugin/commands/StatsCommand.class
+org/shakespeare/funtestplugin/FunBruhCommand.class
+org/shakespeare/funtestplugin/ToggleCommand.class
+org/shakespeare/funtestplugin/FunTestPlugin.class
 org/shakespeare/funtestplugin/commands/ResourcepackCommand.class

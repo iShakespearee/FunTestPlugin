@@ -4,5 +4,7 @@ main: org.shakespeare.funtestplugin.FunTestPlugin
 api-version: '1.21'
 authors: [Shakespeare]
 commands:
-  resourcepack:
+  mystats:
+  toggle:
+  fun:
   thor:
